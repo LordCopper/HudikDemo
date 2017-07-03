@@ -5,7 +5,7 @@ using System.Web;
 
 namespace HudikDemo.Models
 {
-    public class Class1
+    public class KorvKlassen
     {
     }
 }

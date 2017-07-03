@@ -96,8 +96,6 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\Class1 - Copy %282%29.cs" />
-    <Compile Include="Models\Class1 - Copy %283%29.cs" />
     <Compile Include="Models\Class1 - Copy.cs" />
     <Compile Include="Models\Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
